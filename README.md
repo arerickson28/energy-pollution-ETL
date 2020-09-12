@@ -3,13 +3,13 @@ Extract Transform Load Exercise
 
 # Instructions to run program
 
-1. Create config.py file with the following format:
+1. Create **config.py** file with the following format:
 
     username = 'postgres'<br/>
     password = <your_password>
 
-2. Create pgAdmin database named energy-pollution-ETL
+2. Create pgAdmin database named **energy-pollution-ETL**
 
-3. Run the SQL script titled QuickDBD-export (15).sql from the main project folder in pgAdmin
+3. Run the SQL script titled **QuickDBD-export (15).sql** from the main project folder in pgAdmin
 
-4. Open a Jupyter notebook, and open the energy-pollution-ETL.ipynb notebook. Run all cells.
+4. Open a Jupyter notebook, and open the **energy-pollution-ETL.ipynb** notebook. Run all cells.
