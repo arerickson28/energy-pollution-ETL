@@ -5,8 +5,8 @@ Extract Transform Load Exercise
 
 1. Create **config.py** file with the following format:
 
-    username = 'postgres'<br/>
-    password = <your_password>
+    > username = 'postgres'<br/>
+    > password = <your_password>
 
 2. Create pgAdmin database named **energy-pollution-ETL**
 
